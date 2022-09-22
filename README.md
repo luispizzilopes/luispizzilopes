@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @luispizzilopes.
+- 👋 Hi, I'm @luispizzilopes, I am a systems analysis and development student at UTFPR Campus (Cornélio Prócopio) and I'm in my first period of university.
 
 - 👀 I'm interested in learning different programming languages and software development.
 
