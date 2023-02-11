@@ -16,4 +16,12 @@
 
      Email:
      luisfelipe1203lf@gmail.com.
+     
+<div style="display: inline_block"><br>
+  <img align="center" alt="Luis-CSharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="Luis-C" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="center" alt="Luis-Java" height="33" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="Luis-Progress" height="30" width="100"src="https://d3ba5g9yhie26y.cloudfront.net/img/progress-logo.png"/>
+           
+</div>
 
