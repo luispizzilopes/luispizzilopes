@@ -2,7 +2,7 @@
 
 - 👀 I'm interested in learning different programming languages and software development.
 
-- 🌱 I'm learning C, C#, Progress 4GL (OpenEdge) and JAVA programming language.
+- 🌱 I'm learning C, C#, JAVA and Progress 4GL (OpenEdge) programming language.
 
 - 📫 How to reach me:
 
