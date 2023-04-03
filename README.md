@@ -2,7 +2,7 @@
 
 - 👀 I'm interested in learning different programming languages and software development.
 
-- 🌱 I'm learning C, C#, JAVA and Progress 4GL (OpenEdge) programming language.
+- 🌱 I'm learning C, C#, JAVA and JavaScript programming language.
 
 - 📫 How to reach me:
 
@@ -21,7 +21,7 @@
   <img align="center" alt="Luis-CSharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Luis-C" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="Luis-Java" height="33" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="Luis-Progress" height="30" width="100"src="https://d3ba5g9yhie26y.cloudfront.net/img/progress-logo.png"/>
+  <img align="center" alt="Luis-Progress" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
            
 </div>
 
