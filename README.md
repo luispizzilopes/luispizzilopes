@@ -2,7 +2,7 @@
 
 - 👀 I'm interested in learning different programming languages and software development.
 
-- 🌱 I'm learning C, C#, JAVA and JavaScript programming language.
+- 🌱 I'm learning C#, C, JAVA and JavaScript programming language.
 
 - 📫 How to reach me:
 
