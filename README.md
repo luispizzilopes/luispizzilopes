@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=luispizzilopes&color=006bed)
+
 - 👋 Hi, I'm @luispizzilopes, I am a systems analysis and development student at UTFPR Campus (Cornélio Prócopio) and I'm in my second period of university.
 
 - 👀 I'm interested in learning different programming languages and software development.
