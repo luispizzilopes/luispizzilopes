@@ -26,6 +26,3 @@
   <img align="center" alt="Luis-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Luis-Css" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />     
 </div>
-
-<br></br>
-![](https://komarev.com/ghpvc/?username=luispizzilopes&color=006bed)
