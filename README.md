@@ -16,7 +16,6 @@
 * WhatsApp: https://api.whatsapp.com/send?phone=5519991305972.
 
 <hr>
-
  <h2>💻 Principais Tecnologias</h2>    
 <div style="display: inline_block">
   <img align="center" alt="Luis-CSharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
