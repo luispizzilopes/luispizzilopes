@@ -1,10 +1,6 @@
 <h1>👨‍💻 Sobre mim...</h1>
 <p>
-  Apaixonado por tecnologia desde cedo e principalmente pela área de programação, sempre
-  possui curiosidade em descobrir cada dia mais a respeito de como tudo funciona.
-  Em 2022, comecei a cursar Análise e Desenvolvimento de Sistemas pela UTFPR em Cornélio
-  Procópio e atualmente estou a procura da minha primeira experiência profissional na área de
-  desenvolvimento de software.
+  Desenvolvedor Full-Stack com foco em ASP.NET Core e React.js
 </p>
 
 <hr>
