@@ -70,6 +70,6 @@ This exploration complements my passion for building high-quality software and r
 ## 🌐 Professional Network & Portfolio
 
 **Professional Presence**
-- 💼 **LinkedIn**: [[luispizzilopes](https://www.linkedin.com/in/luis-felipe-pizzi-lopes-04b531204/)] - *Professional networking and industry insights*
+- 💼 **LinkedIn**: [[luispizzilopes](https://www.linkedin.com/in/luis-felipe-pizzi-lopes-04b531204/)] - *Professional networking*
 - 📱 **Cell**: (19) 99130-5972
 - 📧 **Email**: luisfelipe1203lf@gmail.com
