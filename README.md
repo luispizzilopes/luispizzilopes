@@ -11,12 +11,6 @@ I'm currently dedicating significant time to deepening my understanding of softw
 
 **Vertical Slice Architecture**: Exploring how to organize code by feature, optimizing development and maintenance.
 
-**CQRS (Command Query Responsibility Segregation)**: Studying the separation of responsibilities between read and write operations to optimize performance and scalability.
-
-**DDD (Domain-Driven Design)**: Deep-diving into software modeling that reflects the complexity of the business domain, ensuring more aligned and effective solutions.
-
-**Microservices**: Investigating the construction of systems as a collection of small, independent services, aiming for greater flexibility and resilience.
-
 This exploration complements my passion for building high-quality software and represents the next step in my technical evolution as a developer.
 
 ---
