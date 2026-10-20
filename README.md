@@ -1,5 +1,4 @@
 # Luis Felipe Pizzi Lopes
-
 **Full Stack Developer** · C# · .NET · React · TypeScript
 
 ---
