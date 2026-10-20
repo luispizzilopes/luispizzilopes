@@ -1,69 +1,112 @@
-# Luis Felipe Pizzi Lopes | Mid-Level Developer | Full Stack Developer
+# Luis Felipe Pizzi Lopes
 
-> *"Creating reliable and scalable systems with clean architecture and functional programming, while exploring the world of technology."*
+**Full Stack Developer (Mid-Level)** | C#/.NET · React · TypeScript
 
----
-
-## Currently Exploring
-**🔗 Advanced Architectures and Design Patterns** - *Enhancing Robustness and Scalability*
-
-I'm currently dedicating significant time to deepening my understanding of software architectures and design patterns that promote more robust, scalable, and maintainable systems. This journey includes:
-
-**Vertical Slice Architecture**: Exploring how to organize code by feature, optimizing development and maintenance.
-
-This exploration complements my passion for building high-quality software and represents the next step in my technical evolution as a developer.
+Full stack developer focused on building reliable, scalable and maintainable systems, with emphasis on clean architecture and functional programming practices.
 
 ---
 
-## 💻 Tech Stack & Expertise
+## Current Focus
 
-### 🧠 Core Languages *(Primary Expertise)*
-**C#/.NET** | **React - JavaScript/TypeScript**
-
-*These are my weapons of choice - languages where I think functionally, write expressively, and build production-ready systems with confidence. My expertise runs deep in these ecosystems, from language internals to advanced patterns and best practices.*
-
-### 🔧 Professional Experience
-**C#** | **JavaScript/TypeScript** | **Java** | **PHP** | **Python**
-
-*Languages I've wielded in real-world production environments, contributing to significant systems and business outcomes.*
-
-### 🗄️ Database Mastery
-**Relational**: PostgreSQL, SQL Server, MySQL  
-**NoSQL**: MongoDB   
-**Performance**: Query optimization, indexing strategies, database design patterns
-
-### ⚙️ DevOps & Infrastructure Excellence
-**Version Control**: Git, SVN     
-**Testing Frameworks**: XUnit, NUnit      
-**UI & Behavior Testing**: Selenium WebDriver    
-**Containerization**: Docker    
-**CI/CD**: GitHub Actions, GitLab CI/CD  
-**Cloud Platforms**: AWS, Azure    
-
-### 🔐 Security & Authentication
-**Modern Auth**: JWT, OAuth 2.0, OpenID, Identity Server
-
-### 📋 Engineering Excellence
-**Methodologies**: Agile (Scrum, Kanban), TDD  
-**Collaboration**: Code reviews, pair programming, technical mentoring  
-**Tools**: Jira, Trello, Microsoft Planner
+| Area | Details |
+|---|---|
+| Distributed software architecture | Postgraduate studies at PUC Minas |
 
 ---
 
-## 🎓 Education & Continuous Learning
+## Tech Stack
 
-### **Formal Education**
-**UNICEP - Centro Universitário Central Paulista**  
-*Systems Analysis and Development* | **2023 - 2025**  
+### Backend
+| Area | Tools |
+|---|---|
+| Primary | C#, .NET, ASP.NET Core, .NET Framework |
+| Node.js | Node.js, NestJS |
+| Other languages (production experience) | Java, PHP, Python |
 
-### **Advanced Specialization** *(Planned 2026)*
-- **🎯 FIAP - Software Architecture Postgraduate** - Advanced architecture, distributed systems, technical leadership
+### Frontend and Mobile
+| Area | Tools |
+|---|---|
+| Languages | JavaScript, TypeScript |
+| Web | React, Next.js |
+| Mobile | React Native |
+
+### Databases
+| Area | Tools |
+|---|---|
+| Relational | SQL Server, PostgreSQL, MySQL, Oracle |
+| NoSQL | MongoDB |
+| Cache | Redis, ElastiCache |
+| Practices | Query optimization, views, stored procedures, data modeling |
+
+### ORM and Data Access
+| Area | Tools |
+|---|---|
+| ORM and data access | Entity Framework Core, Dapper, ADO.NET |
+
+### Cloud (AWS)
+| Area | Tools |
+|---|---|
+| Compute | EC2, Lambda |
+| Integration and messaging | API Gateway, SQS, SNS |
+| Storage and security | S3, Secrets Manager |
+| AI | Bedrock, Rekognition |
+| Cloud platforms | AWS, Azure |
+
+### DevOps and Infrastructure
+| Area | Tools |
+|---|---|
+| Version control | Git, SVN, GitHub, GitLab, AWS CodeCommit |
+| Containers and orchestration | Docker, Kubernetes (Rancher) |
+| CI/CD | GitHub Actions, GitLab CI/CD, Jenkins |
+| Messaging | RabbitMQ |
+| Feature flags | Unleash, Firebase Remote Config |
+| Observability | Serilog (structured logging) |
+| Servers | Linux (Ubuntu Server) |
+
+### Testing
+| Area | Tools |
+|---|---|
+| Unit testing | xUnit, NUnit |
+| UI and behavior testing | Selenium WebDriver |
+| Mutation testing | Stryker.NET |
+| Load testing | K6 |
+| Practices | TDD |
+
+### Security and Authentication
+| Area | Tools |
+|---|---|
+| Authentication and authorization | JWT, OAuth 2.0, OpenID Connect, Identity Server |
+
+### Architecture and Design
+| Area | Tools |
+|---|---|
+| Architectural styles | Microservices, Monolithic, Event-Driven Architecture |
+| Architectural patterns | Clean Architecture, Layered Architecture, Vertical Slice Architecture |
+| Design and organization | DDD (strategic and tactical), CQRS, MVC |
+| Principles | Clean Code, SOLID, DRY |
+| Communication | REST, gRPC |
+
+### Ways of Working
+| Area | Tools |
+|---|---|
+| Methodologies | Agile (Scrum, Kanban) |
+| Collaboration | Code reviews, pair programming, technical mentoring |
+| Project management | Jira, Trello, Microsoft Planner |
 
 ---
 
-## 🌐 Professional Network & Portfolio
+## Education
 
-**Professional Presence**
-- 💼 **LinkedIn**: [[luispizzilopes](https://www.linkedin.com/in/luis-felipe-pizzi-lopes-04b531204/)] - *Professional networking*
-- 📱 **Cell**: (19) 99130-5972
-- 📧 **Email**: luisfelipe1203lf@gmail.com
+| Program | Institution | Period |
+|---|---|---|
+| Systems Analysis and Development (Undergraduate) | UNICEP – Centro Universitário Central Paulista | 2023 – 2025 |
+| Distributed Software Architecture (Postgraduate) | PUC Minas | In progress |
+
+---
+
+## Contact
+
+| Channel | Link |
+|---|---|
+| LinkedIn | [luis-felipe-pizzi-lopes](https://www.linkedin.com/in/luis-felipe-pizzi-lopes-04b531204/) |
+| Email | luisfelipe1203lf@gmail.com |
