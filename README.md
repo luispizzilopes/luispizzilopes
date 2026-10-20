@@ -38,7 +38,8 @@ I work on backend services with .NET and NestJS, web and mobile interfaces with 
 
 ## Education
 
-Postgraduate degree in Distributed Software Architecture, PUC Minas (in progress). Associate degree in Systems Analysis and Development, UNICEP – Centro Universitário Central Paulista, 2023–2025.
+Postgraduate degree in Distributed Software Architecture, PUC Minas (in progress). 
+Associate degree in Systems Analysis and Development, UNICEP – Centro Universitário Central Paulista, 2023–2025.
 
 ## Contact
 
